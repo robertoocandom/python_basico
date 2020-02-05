@@ -1,4 +1,5 @@
-# python_basico
+# Python Básico :)
+
 Curso de Python Basico
 
 Este repositorio contiene los archivos en python del curso Básico de Python de Platzi.
