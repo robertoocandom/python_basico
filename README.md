@@ -1,4 +1,4 @@
-# Python Básico :)
+# Python Básico 😀
 
 Curso de Python Basico
 
